@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\bin\Debug\ScoutingApplicatie.exe.config
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\bin\Debug\ScoutingApplicatie.exe
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\bin\Debug\ScoutingApplicatie.pdb
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\obj\Debug\ScoutingApplicatie.csprojAssemblyReference.cache
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\obj\Debug\MainWindow.g.cs
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\obj\Debug\App.g.cs
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\obj\Debug\ScoutingApplicatie_MarkupCompile.cache
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\obj\Debug\ScoutingApplicatie_MarkupCompile.lref
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\obj\Debug\MainWindow.baml
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\obj\Debug\ScoutingApplicatie.g.resources
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\obj\Debug\ScoutingApplicatie.Properties.Resources.resources
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\obj\Debug\ScoutingApplicatie.csproj.GenerateResource.cache
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\obj\Debug\ScoutingApplicatie.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\obj\Debug\ScoutingApplicatie.exe
+C:\Users\Bart\source\repos\ScoutingApplicatie\ScoutingApplicatie\obj\Debug\ScoutingApplicatie.pdb
